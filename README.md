@@ -1,0 +1,26 @@
+# ⚡️ <a href="https://degreeinsight.io" target="_blank">Trivin / DegreeInsight.io</a> Co-Founder | Lead Engineer
+
+🛠️ Software Engineer, Leader, Tech Writer
+
+### Let's connect!
+
+- <a href="https://twitter.com/calvinqc_" target="_blank">Twitter</a>
+- <a href="https://linkedin.com/in/calvinqc" target="_blank">LinkedIn</a>
+- <a href="https://calvinqc.com" target="_blank">My v2 Website</a>
+- <a href="https://medium.com/@calvinqc" target="_blank">Blogs</a>
+- <a href="https://instagram.com/calvin.qc" target="_blank">Instagram</a>
+
+<!--
+**MarkPieszak/MarkPieszak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
