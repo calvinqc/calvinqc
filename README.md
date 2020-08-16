@@ -15,8 +15,7 @@ My name is Calvin, and thanks for passing by my Github Page. I'm a 𝙎𝙤𝙛�
 I like writing code in the morning and creating blog posts about cool technologies at night. You can check out a full list of articles I wrote [medium.com/@calvinqc](medium.com/@calvinqc). 
 
 If you found valuable resources that I have created, please feel free to support me with just a [coffee](https://www.buymeacoffee.com/calvinqc).
- 
-  ---
+
 ### My Personal Libraries 🌱
 
 In 2020, I started my blog and wrote posts bi-weekly about *tutorials, technologies, news, tips & tricks on full-stack programming.* 
