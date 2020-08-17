@@ -16,6 +16,15 @@ My name is Calvin, a passionate web developer focusing on the backend, and I lov
 
 3️⃣ years of extensive 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗮𝗻𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 with Cross-functional Team to release a prototype to production using Node.js/ React.js / MongoDB / Swift / Google Cloud
 
+### Something I'm working on
+🔭 I’m currently working on [trivin](https://github.com/calvinqc/trivin) & some cool stuffs (will release soon)
+
+🌱 I’m currently learning GraphQL, Node.js & server knowledge
+
+💬 Ask me about what I do, PayPal, SJSU, startups, blog posts [here](https://github.com/calvinqc/calvinqc/issues)
+
+⚡ Join [lunchclub](https://lunchclub.com/?invite_code=calvinn3), and we might have a chance to meet each other.
+
 ### [Get my latest posts 👉](https://medium.com/@calvinqc) 🌱
 - I like publishing posts bi-weekly on Wednesday about *tutorials, technologies, news, tips & tricks on full-stack programming.* 
 
