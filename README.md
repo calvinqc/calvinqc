@@ -8,33 +8,18 @@
 
 Hellooo 👋,
 
-My name is Calvin, and thanks for passing by my Github Page. I'm a 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 in the morning and become a 𝙏𝙚𝙘𝙝 𝙒𝙧𝙞𝙩𝙚𝙧 at night :D, and can't wait to be graduating this December 2020.
+My name is Calvin, a passionate web developer focusing on the backend, and I love writing code and blog in my free time.
 
+1️⃣ year of being a Tech Writer with 𝟲𝗸+ 𝘃𝗶𝗲𝘄𝘀/𝗺𝗼𝗻𝘁𝗵 and 𝟲𝟱𝟬+ 𝗿𝗲𝗮𝗱𝘀/𝘄𝗲𝗲𝗸.
 
-### My Side Hustle
-I like writing code in the morning and creating blog posts about cool technologies at night. You can check out a full list of articles I wrote [medium.com/@calvinqc](medium.com/@calvinqc). 
+2️⃣ 𝗦𝘂𝗺𝗺𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽 @𝗣𝗮𝘆𝗣𝗮𝗹 𝗜𝗻𝗰. in 2018 and 2019 to build web and mobile apps using Node.js for internal use
 
-If you found valuable resources that I have created, please feel free to support me with just a [coffee](https://www.buymeacoffee.com/calvinqc).
+3️⃣ years of extensive 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗮𝗻𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 with Cross-functional Team to release a prototype to production using Node.js/ React.js / MongoDB / Swift / Google Cloud
 
-### Github Stats
-![Calvin's github stats](https://github-readme-stats.vercel.app/api?username=calvinqc&show_icons=true&theme=default)
+### [Get my latest posts 👉](https://medium.com/@calvinqc) 🌱
+- I like publishing posts bi-weekly on Wednesday about *tutorials, technologies, news, tips & tricks on full-stack programming.* 
 
-<!-- <a href="https://github.com/calvinqc/trivin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calvinqc&repo=trivin&theme=default" />
-</a>  
-
-<a href="https://github.com/calvinqc/Nodejs-Server-Template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calvinqc&repo=Nodejs-Server-Template&theme=default" />
-</a>   -->
-
-----
-### My Personal Libraries 🌱
-
-In 2020, I started my blog and wrote posts bi-weekly about *tutorials, technologies, news, tips & tricks on full-stack programming.* 
-
-My articles get over **7,000 reads per month** and featured on top writer list of TheStartup, the largest Medium's publication
-
-[Latest Post 👉](https://medium.com/@calvinqc)
+- If you found valuable resources that I have created, please feel free to support me with just a [coffee](https://www.buymeacoffee.com/calvinqc).
 
 <details>
  <summary><strong>other favorite posts</strong></summary>
@@ -45,3 +30,5 @@ My articles get over **7,000 reads per month** and featured on top writer list o
 
 - <a href="https://levelup.gitconnected.com/i-built-a-m-e-r-n-codebase-in-an-hour-742acd71ed7e">Full Tutorial to build Full M.E.R.N project</a>
 </details>
+
+![Calvin's github stats](https://github-readme-stats.vercel.app/api?username=calvinqc&show_icons=true&theme=default)
