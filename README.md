@@ -4,6 +4,7 @@
 <p align='center'>
 <a href="https://dev.to/calvinqc"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/devto.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/calvinqc_"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://facebook.com/calvin.nvqc"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/calvin.qc"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/calvinqc"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.medium.com/@calvinqc"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
