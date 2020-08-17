@@ -1,13 +1,16 @@
-# ⚡️ <a href="https://calvinqc.com" target="_blank"> Tech Enthuasist | Software Engineer | Adventurer | Writer </a>
 <p align='center'>
-<a href="https://dev.to/calvinqc"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/calvinqc_"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/calvin.qc"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+⚡️ <a href="https://calvinqc.com" target="_blank"> Tech Enthuasist | Software Engineer | Adventurer | Writer </a>
+ 
+<p align='center'>
+<a href="https://dev.to/calvinqc"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/devto.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/calvinqc_"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/calvin.qc"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/calvinqc"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.medium.com/@calvinqc"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/calvinqc/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://unsplash.com/@calvinqc"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/unsplash.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/calvinqc/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>
 
-Hellooo 👋,
+## Hellooo 👋,
 
 My name is Calvin, a passionate web developer focusing on the backend, and I love writing code and blog in my free time.
 
