@@ -21,9 +21,12 @@ If you found valuable resources that I have created, please feel free to support
 <a href="https://github.com/calvinqc/trivin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calvinqc&repo=trivin&theme=default" />
 </a>  
-<a href="https://github.com/calvinqc/Nodejs-Server-Template">
+
+
+<!-- <a href="https://github.com/calvinqc/Nodejs-Server-Template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calvinqc&repo=Nodejs-Server-Template&theme=default" />
-</a>  
+</a> -->
+
 <!-- <a href="https://github.com/DPA-SJSU/Degree-Planning-Assistant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DPA-SJSU&repo=Degree-Planning-Assistant&theme=default" />
 </a>   -->
