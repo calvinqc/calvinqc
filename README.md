@@ -1,5 +1,5 @@
-<p align='center'>
-⚡️ <a href="https://calvinqc.com" target="_blank"> Tech Enthuasist | Software Engineer | Adventurer | Writer </a>
+<!-- <p align='center'> -->
+## ⚡️ <a href="https://calvinqc.com" target="_blank"> Tech Enthuasist | Software Engineer | Writer </a>
  
 <p align='center'>
 <a href="https://dev.to/calvinqc"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/devto.png"></a>&nbsp;&nbsp;
