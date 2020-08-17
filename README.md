@@ -16,6 +16,19 @@ I like writing code in the morning and creating blog posts about cool technologi
 
 If you found valuable resources that I have created, please feel free to support me with just a [coffee](https://www.buymeacoffee.com/calvinqc).
 
+![Calvin's github stats](https://github-readme-stats.vercel.app/api?username=calvinqc&show_icons=true&theme=default)
+
+<a href="https://github.com/calvinqc/trivin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calvinqc&repo=trivin&theme=default" />
+</a>  
+<a href="https://github.com/calvinqc/Nodejs-Server-Template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calvinqc&repo=Nodejs-Server-Template&theme=default" />
+</a>  
+<!-- <a href="https://github.com/DPA-SJSU/Degree-Planning-Assistant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DPA-SJSU&repo=Degree-Planning-Assistant&theme=default" />
+</a>   -->
+
+----
 ### My Personal Libraries 🌱
 
 In 2020, I started my blog and wrote posts bi-weekly about *tutorials, technologies, news, tips & tricks on full-stack programming.* 
