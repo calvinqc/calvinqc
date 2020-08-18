@@ -24,7 +24,7 @@ My name is Calvin, a passionate web developer focusing on the backend. I love wr
 
 <details>
  <summary><strong>Ugly me when doing Bungy Jumping 👉</strong></summary>
-<img src="./assets/bungy-jump.jpg"></img>
+<img src="https://github.com/calvinqc/calvinqc/blob/master/assets/bungy-jump.jpg"></img>
 </details>
 
 ### Something I'm working on
@@ -53,15 +53,12 @@ My name is Calvin, a passionate web developer focusing on the backend. I love wr
 -   <a href="https://levelup.gitconnected.com/i-built-a-m-e-r-n-codebase-in-an-hour-742acd71ed7e">Full Tutorial to build Full M.E.R.N project</a>
 </details>
 
-<div align="center">
-
 ![Calvin's github stats](https://github-readme-stats.vercel.app/api?username=calvinqc&show_icons=true&theme=radical)
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=calvinqc&repo=trivin&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+
+<a href="https://degreeinsight.io">
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=calvinqc&repo=Nodejs-Server-Template&theme=radical" />
-
 </a>
-
-</div>
