@@ -23,8 +23,9 @@ My name is Calvin, a passionate web developer focusing on the backend. I love wr
 3️⃣ years of extensive 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗮𝗻𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 with Cross-functional Team to release a prototype to production using Node.js/ React.js / MongoDB / Swift / Google Cloud
 
 <details>
- <summary><strong>Ugly me when doing Bungy Jumping 👉</strong></summary>
-<img src="https://github.com/calvinqc/calvinqc/blob/master/assets/bungy-jump.jpg"></img>
+ <summary><strong>Click here to see the REAL me 👇</strong></summary>
+ 
+<img src="https://github.com/calvinqc/calvinqc/blob/master/assets/bungy-jump.jpg">"It's bungy 'Jump', not Bungy 'Push'! 🤣"</img>
 </details>
 
 ### Something I'm working on
