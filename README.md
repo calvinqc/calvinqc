@@ -8,8 +8,14 @@
 <a href="https://unsplash.com/@calvinqc"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/unsplash.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/calvinqc/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>
 
+
 <details>
- <summary><strong> Save Me 👀 </strong></summary>
+ <summary><strong> 👀 Wanna push me? 😈 </strong></summary>
+<img src="https://github.com/calvinqc/calvinqc/blob/master/assets/bungy-jump.jpg">"Ahhhh, it's bungy 'Jump', not Bungy 'Push'!"</img>
+
+----
+<details>
+ <summary><strong> I see you down here 👇 </strong></summary>
 
 ```
 𝚌𝚘𝚗𝚜𝚘𝚕𝚎.𝚕𝚘𝚐('𝙷𝚎𝚕𝚕𝚘 👋,');
@@ -51,11 +57,6 @@ calvin.experiences = [
 📝 I like publishing posts bi-weekly on Wednesday about _tutorials, technologies, news, tips & tricks on full-stack programming._
 
 ☕️ If you found valuable resources that I have created, please feel free to support me with just a [coffee](https://www.buymeacoffee.com/calvinqc).
-
-<details>
- <summary><strong> 👀 Click here to see the REAL me 👇</strong></summary>
-<img src="https://github.com/calvinqc/calvinqc/blob/master/assets/bungy-jump.jpg">"It's bungy 'Jump', not Bungy 'Push'! 🤣"</img>
-</details>
 
 <details>
  <summary><strong>See Latest Posts</strong></summary>
