@@ -55,17 +55,7 @@ if (👨🏻‍💻 ) {
 ## Support 
 ☕️    If you found valuable resources that I have created, please feel free to support me with just a [coffee](https://www.buymeacoffee.com/calvinqc).
 
-
 ## Contribution
 ![Calvin's github stats](https://github-readme-stats.vercel.app/api?username=calvinqc&show_icons=true&theme=radical)
-
-## Highlight
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=calvinqc&repo=trivin&theme=radical" />
-</a>
-
-<a href="https://degreeinsight.io">
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=calvinqc&repo=Nodejs-Server-Template&theme=radical" />
-</a>
 
 </details>
