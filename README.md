@@ -18,7 +18,7 @@ $ git push
 <img src="https://github.com/calvinqc/calvinqc/blob/master/assets/bungy-jump.jpg"/>
 
 <p align='center'>
-"Dude, it's bungy '<strong>JUMP</strong>', not Bungy '<strong>PUSH</strong>'!"
+𝗣𝗥𝗢𝗗𝗨𝗖𝗧𝗜𝗢𝗡 𝗘𝗥𝗥𝗢𝗥: "It's bungy '<strong>JUMP</strong>', not Bungy '<strong>PUSH</strong>'!"
 </ details>
 
 ## Getting Started
