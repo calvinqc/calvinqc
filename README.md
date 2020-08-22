@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/calvinqc/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>
 
 <details>
- <summary><strong> 👀 git push! 😈 </strong></summary>
+ <summary><strong> 👀 Push me 😈 </strong></summary>
 <img src="https://github.com/calvinqc/calvinqc/blob/master/assets/bungy-jump.jpg"/>
 
 <p align='center'>
