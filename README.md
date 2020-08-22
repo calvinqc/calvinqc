@@ -12,7 +12,7 @@
 
 <p align='center'>
 𝗣𝗥𝗢𝗗𝗨𝗖𝗧𝗜𝗢𝗡 𝗘𝗥𝗥𝗢𝗥: "It's bungy '<strong>JUMP</strong>', not Bungy '<strong>PUSH</strong>'!"
-</ details>
+</details>
 
 ## Getting Started
 
