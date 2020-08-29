@@ -12,7 +12,7 @@
 
 <p align='center'>
 𝗣𝗥𝗢𝗗𝗨𝗖𝗧𝗜𝗢𝗡 𝗘𝗥𝗥𝗢𝗥: "It's bungy '<strong>JUMP</strong>', not Bungy '<strong>PUSH</strong>'!"
-</details>
+
 
 ## Getting Started
 
@@ -51,4 +51,5 @@ else if (time === 🌙):
 ## Contribution
 ![Calvin's github stats](https://github-readme-stats.vercel.app/api?username=calvinqc&show_icons=true&theme=radical)
 
+</details>
 </details>
