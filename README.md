@@ -16,7 +16,7 @@
 
 ## Getting Started
 
-```
+```js
 let myJob = null;
 
 if (time === 🌤) {
