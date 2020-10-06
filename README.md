@@ -5,6 +5,11 @@
 <a href="https://instagram.com/calvin.qc"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.medium.com/@calvinqc"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/calvinqc/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>
+</p>
+
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=calvinqc" alt="calvinqc" /> 
+</p>
     
 <details>
  <summary><strong> 👀 Push me 😈 </strong></summary>
